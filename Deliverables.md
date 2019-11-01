@@ -23,7 +23,7 @@ five best random tweets.
 
 - [*Harry Potter and the Portrait of What Looked Like a Large Pile of Ash*](https://botnik.org/content/harry-potter.html)
 
-- [This episode] of *Tidying Up with Marie Kondo*
+- [This episode](https://twitter.com/botnikstudios/status/1113130983426002944) of *Tidying Up with Marie Kondo*
 
 - ["Bored with This Desire to Get Ripped"](https://www.youtube.com/watch?v=BtybvwLJC30) trained from Morrissey lyrics and reviews of the
 P90X workout DVDs
