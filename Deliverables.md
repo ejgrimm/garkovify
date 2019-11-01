@@ -8,14 +8,16 @@ The model starts by picking a random starting word, then randomly choosing the n
 frequently in the source text are more likely to be chosen by the generator. This process then repeats, randomly choosing the next word
 based on the current word.
 
+If you'd like, you can think of it as writing using only the autocomplete feature of your phone.
+
 Clone this public repo:
 
 ```
 git clone cms380-f18-lab-2
 ```
 
-It tells you how to use a tool named `markovify` to generate random sentences. Work through the examples it contains and record your
-five best random tweets.
+The lab instructions tell you how to use a tool named `markovify` to generate random sentences. Work through the examples it contains and 
+record your five best random tweets.
 
 ## Predictive Keyboards
 
@@ -28,4 +30,7 @@ five best random tweets.
 - ["Bored with This Desire to Get Ripped"](https://www.youtube.com/watch?v=BtybvwLJC30) trained from Morrissey lyrics and reviews of the
 P90X workout DVDs
 
+Play around with the predictive keyboard on Botnik's website. Record your best creative work.
+
+## DIY 
 
