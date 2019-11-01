@@ -17,7 +17,7 @@ git clone cms380-f18-lab-2
 It tells you how to use a tool named `markovify` to generate random sentences. Work through the examples it contains and record your
 five best random tweets.
 
-### Predictive Keyboards
+## Predictive Keyboards
 
 [Botnik](https://botnik.org/) is a company that uses predctive text to make humor products. Some of their work includes:
 
