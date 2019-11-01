@@ -12,6 +12,9 @@
 5. Continuous-time Markov chains
 6. Using Markov chains to derive queueing equations
 
+## Deliverables
+
+
 ## Resources
 
 
