@@ -17,8 +17,16 @@
 
 ## Resources
 
+[This post from Towards Data Science](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d) gives another accessible overview to Markov chains.
 
 
 
 ## Timeline
 
+We'll do more direct instruction in class for this sprint. Here's an approximate schedule:
+
+- Monday (11/4): Overview of Markov chains, discrete chain example, solving the global balance equations
+
+- Wednesday (11/6): Continuous-time chains, using a chain to model the M/M/1 queue, deriving queueing equations
+
+- Monday (11/11): 
