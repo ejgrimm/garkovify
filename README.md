@@ -19,7 +19,7 @@
 
 [This post from Towards Data Science](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d) gives another accessible overview to Markov chains.
 
-
+[This book chapter](https://bookdown.org/probability/beta/markov-chains.html) (up to the section on hidden Markov models, which are interesting, but not something we're going to cover in this class)
 
 ## Timeline
 
