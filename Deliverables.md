@@ -3,7 +3,7 @@
 ## Make Randomized Text Great Again
 
 Creating randomized text generators is a fun application of Markov chains. For example [this Reddit account](https://www.reddit.com/user/FloridaMan_SS/posts/), which creates random
-Florida Man posts.
+Florida Man posts using a Markov model created from the r/FloridaMan subreddit.
 
 The model starts by picking a random starting word, then randomly choosing the next word, in such a way that words pairs occurring more
 frequently in the source text are more likely to be chosen by the generator. This process then repeats, randomly choosing the next word
