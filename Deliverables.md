@@ -57,7 +57,7 @@ The starting state is on the left side and the destination state is on the top.
 
 Review the pies-tanks model from the notes. Consider a more general form of the model.
 
-There are two states, labeled 0 and 1. The one-step transition probabilities are controlled by two parameters , `p` and `q`, such that
+There are two states, labeled 0 and 1. The one-step transition probabilities are controlled by two parameters , *p* and *q*, such that
 the transition matrix is
 
 ```
@@ -71,10 +71,14 @@ from
 
 Solve the global balance equations and show that the long-run probability of being in state 0 is
 
-π<sub>0</sub> = q / (p + q)
+*π*<sub>*0*</sub> = *q* / (*p* + *q*)
 
 and the long-run probability of being in state 1 is
 
-π<sub>1</sub> = p / (p + q)
+*π*<sub>*1*</sub> = *p* / (*p* + *q*)
+
+Tip:
+
+- Start by drawing out the chain and labeling the arcs with the probabilities from the matrix.
 
 
