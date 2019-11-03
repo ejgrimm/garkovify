@@ -91,8 +91,7 @@ Tip: start by drawing out the chain and labeling the arcs with the probabilities
 Create your own predictive text model and publish some examples of its output.
 
 This is intended to be a creative project that you can add to your resume and talk about in
-interviews, so I encourage you to experiment and come up with something fun. Part of the project is coming up with good sources and
-combining them into 
+interviews, so I encourage you to experiment and come up with something fun. Part of the project is coming up with good sources and editing them into a form that works with the predictive generators.
 
 You have a few options for how to proceed. You can use a tool like `markovify` or a predictive text keyboard to generate sentences, or 
 you can write your own text generation code. I've included an example Python script that generates haiku-like poetry that you can use
