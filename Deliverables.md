@@ -31,6 +31,8 @@ record your five best random tweets.
 - ["Bored with This Desire to Get Ripped"](https://www.youtube.com/watch?v=BtybvwLJC30) trained from Morrissey lyrics and reviews of the
 P90X workout DVDs
 
+- A [makeup tutorial](https://www.youtube.com/watch?v=hSppmr_dRdQ) trained from Bob Ross episodes and YouTube makeup videos
+
 Play around with the predictive keyboard on Botnik's website. Record your best creative work.
 
 ## Seussical
