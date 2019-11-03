@@ -77,8 +77,6 @@ and the long-run probability of being in state 1 is
 
 *π*<sub>*1*</sub> = *p* / (*p* + *q*)
 
-Tip:
-
-- Start by drawing out the chain and labeling the arcs with the probabilities from the matrix.
+Tip: start by drawing out the chain and labeling the arcs with the probabilities from the transition matrix.
 
 
