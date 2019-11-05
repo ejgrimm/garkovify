@@ -1,21 +1,17 @@
 # Sprint 5: Markov Chain Models
 
-## Overview
-
-
 ## Topics
 
 1. Markov chains as state transition models
-2. The Markov property
+2. The Markovian property
 3. Discrete-time Markov chains
 4. Global balance and the steady-state probabilities
 5. Continuous-time Markov chains
 6. Using Markov chains to derive queueing equations
 
-## Deliverables
-
-
 ## Resources
+
+We'll do more direct discussion in class for this sprint, so that will be your main resource. I've included a set of notes covering an introduction to Markov chains and the analytical technique of solving the balance equations for both a discrete-time model and the M/M/1 queue.
 
 [This post from Towards Data Science](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d) gives another accessible overview to Markov chains.
 
@@ -27,6 +23,10 @@ We'll do more direct instruction in class for this sprint. Here's an approximate
 
 - Monday (11/4): Overview of Markov chains, discrete chain example, solving the global balance equations
 
-- Wednesday (11/6): Continuous-time chains, using a chain to model the M/M/1 queue, deriving queueing equations
+- Wednesday (11/6): Using the transition matrix, calculating the n-step transition probabilities, continuous-time chains, using a chain to model the M/M/1 queue, deriving queueing equations
 
-- Monday (11/11): 
+- Monday (11/11): Work
+
+- Wednesday (11/13): Work
+
+- Monday (11/18): Quiz and beginning of the last sprint
