@@ -85,34 +85,48 @@ and the long-run probability of being in state 1 is
 
 Tip: start by drawing out the chain and labeling the arcs with the probabilities from the transition matrix.
 
+## Discouragement
+
+Consider an M/M/1 queue where the arrival rate depends on the number of customers. This kind of system can be used to model *discouraged
+arrivals*, where the arrival rate decreases as the queue length increases.
+
+Suppose that when there are *k* customers in the system, the arrival rate is *λ* / (*k* + 1). The exponential service rate is always 
+*µ*, regardless of the number of customers.
+
+Draw out the Markov chain model for this system and label the transition arcs with the appropriate arrival
+and service rates. Solve the local balance equations for your model to find an expression for π<sub>*k*</sub>, the long-run
+probability of having *k* customers in the queue.
+
+Tips:
+
+This is similar to the M/M/1 model, but you have to work with slightly more complicated balance equations. If your equations are correct, you'll see a factorial term emerge in the denominator of π<sub>*k*</sub>.
+
+To solve for π<sub>0</sub>, write down the infinite sum of all the π<sub>*k*</sub> terms and then simplify it. [This link](https://en.wikipedia.org/wiki/List_of_representations_of_e) contains the summation that you'll need.
 
 ## Make Your Own Predictions
 
-Create your own predictive text model and publish some examples of its output.
+Create your own predictive text model and curate some examples of its output. Your goal is to produce a good quality **long-form** piece of Markov-generated text and then publish it on the Internet.
 
-This is intended to be a creative project that you can add to your resume and talk about in
-interviews, so I encourage you to experiment and come up with something that you think is entertaining. Part of the project is coming up with good sources and editing them into a form that works with the predictive generators.
+Making random sentences or tweet-sized chunks is easy, so I want you to experiment with making a work that's at least one-half to one page in length.
 
-You have a few options for how to proceed. You can use a tool like `markovify` or a predictive text keyboard to generate sentences, or 
-you can write your own text generation code. I've included an example Python script that generates haiku-like poetry that you can use
-as a starting point if you want to write your own code.
+I want you to do four things:
 
-"Publishing" your work could happen in a lot of different forms, depending on what you want to do:
+1. Write or find a good tool for text-generation. `markovify` and Botnik's predictive keyboards are options, but I encourage you to do a little bit of research before you commmit to a tool. If you want to experiment with writing your own code, I've included an example haiku-generation program in the repo.
 
-- Deploy a website showcasing your work
-- Post some examples to Twitter, Instagram, or another social site
-- Make a video and upload it to YouTube
-- Record a song
-- Create your own picture book
+2. Find a good data source and get it into a form that works with your tool.
 
-Another way to "publish" your work is to turn your model into a tool that somebody else could use and then make it available, for 
-example through a web front-end.
+3. Understand the tool and its parameters well enough to generate some creative high-quality outputs. **It's okay to lightly edit the random outputs as part of the creative process**.
 
-You can, of course, delete anything you create once it's no longer needed. You can also publish things privately and send me the link if you prefer to work that way.
+4. Publish the results of your work on [GitHub Pages](https://pages.github.com/). This is easy to do: create a new repo to host your work, adjust some settings, and GitHub will automatically host your repo as a web page. I'm asking you to do this so you can practice creating sites via GitHub, which can be a nice low-maintenance way to build a personal site or feature your projects.
 
 Some ideas for data sources:
 
-- Tweets of all kinds
-- Project Gutenberg and Wikisource for historical texts
+- Tweets of all kinds (but Trump is too easy)
+- Project Gutenberg and Wikisource for historical texts and literature
 - Wikipedia articles
-- Media pieces about a topic of interest, or written by a particular writer or group of writers
+- Media pieces about a topic, or written by a particular writer or group of writers
+- Recipes
+- Poetry
+- Song lyrics (you know how much I love mashups)
+- Academic articles (see, for example, the [snarXiv](http://snarxiv.org/))
+
