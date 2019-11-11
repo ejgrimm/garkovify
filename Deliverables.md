@@ -1,5 +1,13 @@
 # Sprint 5 Deliverables
 
+## Honor Code
+
+"On my honor, I have not given, nor received, nor witnessed any unauthorized assistance on this work." - Eric Grimm
+
+## Team Members
+
+Jaysa, Nikola, Mohamed, Kyle
+
 ## Make Randomized Text Great Again
 
 Creating randomized text generators is a fun application of Markov chains. For example [this Reddit account](https://www.reddit.com/user/FloridaMan_SS/posts/), which creates random
