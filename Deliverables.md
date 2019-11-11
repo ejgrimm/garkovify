@@ -51,17 +51,18 @@ Play around with the predictive keyboard on Botnik's website. Record your best c
 
 Consider the sentence
 
-> one fish two fish red fish blue fish
+> one fish two fish red fish blue fish end
 
 Fill in the matrix describing the transition probabilities in this sentence.
 
 ```
-        one   fish   two   red   blue
+        one   fish   two   red   blue end
 one
 fish
 two
 red
 blue
+end
 ```
 
 The starting state is on the left side and the destination state is on the top.
